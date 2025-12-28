@@ -1,0 +1,5 @@
+
+body{font-family:Arial;background:linear-gradient(135deg,#667eea,#764ba2);color:white}
+.card{background:rgba(0,0,0,0.3);padding:30px;margin:40px;border-radius:15px}
+button{background:#ff4081;border:none;padding:10px;color:white}
+input{padding:8px;margin:5px}
